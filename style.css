@@ -1,2 +1,7 @@
 @import url("./utilidades/reset.css");
 @import url("./main/main.css");
+
+@font-face {
+  font-family: "trajan";
+  src: url("./utilidades//trajan-pro-3-2.otf");
+}
