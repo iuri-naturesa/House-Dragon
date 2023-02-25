@@ -1,7 +1,9 @@
 html {
   scroll-behavior: smooth;
 }
-
+body {
+  display: none;
+}
 .hbo {
   position: fixed;
   top: 0;
